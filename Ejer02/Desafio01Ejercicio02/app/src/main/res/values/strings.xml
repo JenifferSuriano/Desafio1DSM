@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Desafio 01 Ejer 02</string>
+    <string name="title">Salario Base</string>
+    <string name="texto1">Ingresa tu nombre</string>
+    <string name="texto2">Ingresa el salario base</string>
+    <string name="name">Eje. Jeniffer</string>
+    <string name="salary">825.45</string>
+    <string name="calcu">Calcular</string>
+    <string name="nameResult">➤ Nombre: </string>
+    <string name="renta">➤ Renta: $</string>
+    <string name="afp">➤ AFP: $</string>
+    <string name="isss">➤ ISSS: $</string>
+    <string name="neto_salary">➤ Salario Neto: $</string>
+    <string name="notComply">No aplica Renta.</string>
+</resources>
